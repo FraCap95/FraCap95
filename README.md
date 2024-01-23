@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;
 <h6 align="left">#2 Presto.it (link_to_project_2)</h6>
 <p align="left">Brief project description. Highlight the technologies used, challenges faced, and the achieved results.</p>
-<p align="left">![Overview](https://www.linkedin.com/posts/francesca-capuanocoding_video-che-mostra-il-funzionamento-del-sito-activity-7119700113555378176-y5Ez?utm_source=share&utm_medium=member_desktop)</p>
+<p align="left">![Project 3](link_to_image_or_gif_of_project_3)</p>
 
 &nbsp;&nbsp;&nbsp;
 <h3 align="left">Connect with me:</h3>
