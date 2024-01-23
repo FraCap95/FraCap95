@@ -13,7 +13,7 @@
 <p align="left">Brief project description. Highlight the technologies used, challenges faced, and the achieved results.</p>
 <p align="left">![Project 1](link_to_image_or_gif_of_project_1)</p>
 
-<h6 >#2 Gameworld (link_to_project_2)</h6>
+<h6 align="left">#2 Gameworld (link_to_project_2)</h6>
 <p align="left">Brief project description. Highlight the technologies used, challenges faced, and the achieved results.</p>
 <p align="left">![Project 2](link_to_image_or_gif_of_project_2)</p>
 
