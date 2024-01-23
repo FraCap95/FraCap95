@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;
 <h6 align="left">#2 Presto.it (link_to_project_2)</h6>
 <p align="left">Brief project description. Highlight the technologies used, challenges faced, and the achieved results.</p>
-<p align="left">![Presto LiveCoding](https://github.com/FraCap95/FraCap95/blob/main/PrestoLiveCoding.gif)</p>
+<p align="left">![Presto LiveCoding](PrestoLiveCoding.gif)</p>
 
 &nbsp;&nbsp;&nbsp;
 <h3 align="left">Connect with me:</h3>
