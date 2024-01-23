@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Francesca</h1>
-<h3 align="center">A passionate frontend developer from Brindisi, Italy</h3>
+<h1 align="center">Hi 👋, I'm Francesca Capuano</h1>
+<h3 align="center">I am a passionate and skilled Frontend Developer from Italy, with a keen eye for creating visually appealing and highly responsive user interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fracap95&label=Profile%20views&color=0e75b6&style=flat" alt="fracap95" /> </p>
 
