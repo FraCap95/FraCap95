@@ -30,8 +30,10 @@
 </p>
 
 &nbsp;&nbsp;&nbsp;
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fracap95&show_icons=true&locale=en" alt="fracap95" /></p>
-
+<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=fracap95&show_icons=true&locale=en" alt="fracap95" /></p>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fracap95&label=Profile%20views&color=0e75b6&style=flat" alt="fracap95" /> </p>
 
